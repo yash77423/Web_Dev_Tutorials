@@ -1,0 +1,32 @@
+Form tags:
+
+<form>: to create HTML forms for user input
+
+Form Elements:
+
+<input>: takes user input, can be displayed in many forms (text fields, radio buttons, Checkbox, calender, etc)
+- specify the type attribute as "text","radio","checkbox","date"
+- specify the id attribute to reference the data entered by the user
+- specify the name attribute to display name of the field
+- value is used to specify text on buttons or default values
+
+<label>: text attached to a field to specify what user input (login, password, dob, etc)
+- for attribute is used to connect label to input id
+
+
+** !!! VIMP RULE: !!!
+<label for = ""> == <input id=""> // Value of for attribute of label and id attribute of input MUST BE SAME!!
+
+
+<select>: used for drop down menus
+
+<option>: to list options of drop down menus
+
+<button>: to create buttons
+
+<textarea>: to input multiple lines of text
+
+<fieldset>: used to group form elements to make a section of the form
+
+<legend>: used to give a caption/heading to a fieldset
+

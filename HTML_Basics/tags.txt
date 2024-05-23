@@ -1,0 +1,19 @@
+<!-- Tags: markup entity, special keywords which provide meaning,
+    structure and formatting to the content on webpage. -->
+
+Semantics tags: <h1> - <h6>, <p>, <a>, <ul>, <ol>, <table>, <tr>, <td>,
+<img>, <form>, <input>
+
+Structure tags: <html>, <head>, <body>, <header>, <main>, <aside>, <footer>,
+<article>, <section>, <nav>
+
+Formatting tags: <b>, <i>, <u>, <s>, <strong>, <em>, <sup>, <sub>, <pre>, <code>,
+<br>
+
+<div> tag: defines a division or a section in an HTML document,
+used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+often used to group sections of a web page together
+easily styled by using the class or id attribute.
+Any sort of content can be put inside the <div> tag! 
+
+

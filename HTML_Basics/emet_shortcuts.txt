@@ -1,0 +1,32 @@
+1.  p>p>p // 3 nested paragraphs
+
+2. ul>li*3 // unordered list with 3 elements
+
+3. p>img 
+
+4. p>h1    // '>' used to nest tags
+
+5. article+section // two tags generated together
+
+6. p{this is my first paragraph} //to insert textual content 
+
+7. p>lorem7 //to insert lorem of length 7 in paragraph
+
+8. p#para1 // a paragraph element created with id="para1"
+
+9. p.para // a paragraph element with class="para"
+
+10. section.lion.dog.cat.billi // a section with multiple classes
+
+11. p>ul>li*4
+
+12. section>p*3
+
+13. table>(tr>td*5)*2
+table>(tr>td*3)*2
+
+14. ul>(li>p>a)*7
+
+15. nav>ul>(li>a)*4
+
+16. 

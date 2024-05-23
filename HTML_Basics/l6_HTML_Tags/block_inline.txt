@@ -1,0 +1,19 @@
+Block element:
+- always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
+- always takes up the full width available (stretches out to the left and right as far as it can).
+- Two commonly used block elements are: <p> and <div>.
+- The <p> element defines a paragraph in an HTML document.
+- The <div> element defines a division or a section in an HTML document.
+
+Inline element:
+- does not start on a new line.
+- only takes up as much width as necessary.
+- The <span> element is an inline container used to mark up a part of a text, or a part of a document.
+
+
+NOTE: Can you change a block element into an inline element?
+If you change the <div> element's display property from block to inline-block, 
+the <div> elements will no longer add a line break before and after, 
+and will be displayed side by side instead of on top of each other.
+
+
