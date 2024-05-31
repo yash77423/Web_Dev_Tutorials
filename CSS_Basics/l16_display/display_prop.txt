@@ -1,0 +1,30 @@
+1. Block elements: - div, p, h1-h6, form, header, footer, section, etc.
+    - displayed in new line
+    - take up width of whole page (from extreme left to extreme right), do not depend on content
+    - can take up custom widths/heights
+    - can take up custom margin/padding
+
+The box-sizing property allows us to include the padding and border in an element's total width and height.
+If you set box-sizing: border-box; on an element, padding, and border are included in the width and height.
+
+2. Inline elements: - a, span, etc.
+    - try to appear in same line
+    - width is taken as per content requirement
+    - cannot apply custom width/height
+    - only padding and horizontal custom margins can be applied
+
+These elements can be displayed exchangably by specifying display: block/inline;
+
+3. inline-bock:
+    - behaves exactly like inline elements
+    - but we can set custom width/height
+
+
+
+
+
+
+
+
+List of all block & inline elements:
+https://www.w3schools.com/html/html_blocks.asp

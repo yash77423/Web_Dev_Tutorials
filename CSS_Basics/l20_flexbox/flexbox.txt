@@ -1,0 +1,23 @@
+flex box properties: 
+
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* align-content: start; */ /* align-content property sets the distribution of space between and around content items along a flexbox's cross axis,*/
+    /* The flex-flow property is a shorthand property for setting both the flex-direction and flex-wrap properties
+    Example:
+    .flex-container {
+      display: flex;
+      flex-flow: row wrap;
+    } */
+    /* justify-content: center; */ /* justify-content controls where the flex items sit on the main axis. *
+    /* align-items: center; */ /* align-items controls where the flex items sit on the cross axis. */
+
+
+flex items properties:
+
+order - to change sequence of flex items
+flex-shrink - 
+flex-grow -
+flex-basis - 
+align-self - 

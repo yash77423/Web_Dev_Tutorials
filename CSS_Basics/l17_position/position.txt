@@ -1,0 +1,15 @@
+1. Relative: 
+    - object can be positioned wrt current window 
+    - properties: top, left, bottom, right to define spacing 
+    - the space where element was already present is maintained
+
+2. Absolute:
+    - relative to its closest positioned ancestor
+    - the previous space of element is not preserved, elements can overlap 
+
+3. Sticky:
+    - exhibits sticky behaviour only inside parent container
+
+4. Fixed:
+    - remains fixed for entire webpage
+

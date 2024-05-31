@@ -1,0 +1,20 @@
+In CSS, the term "box model" is used when talking about design and layout.
+
+The CSS box model is essentially a box that wraps around every HTML element. 
+It consists of: content, padding, borders and margins.
+
+Mardin is applied outside borders (i.e. between two boxes)
+Padding is applied inside borders (i.e. b/w border and content)
+
+The universal selector (*) selects all HTML elements on the page.
+
+Example
+The CSS rule below will affect every HTML element on the page: 
+
+* {
+  text-align: center;
+  color: blue;
+}
+
+The box-sizing property allows us to include the padding and border in an element's total width and height.
+If you set box-sizing: border-box; on an element, padding, and border are included in the width and height.
